@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "vinod",
+      "password": "password123",
+      "email": "vinod@example.com",
+      "role": "employee",
+      "employeeId": "EMP001",
+      "name": {
+        "firstname": "Vinod",
+        "lastname": "Reddy"
+      }
+    },
+    {
+      "id": 2,
+      "username": "mor_2314",
+      "password": "Teju@7723",
+      "email": "mor@example.com",
+      "role": "employee",
+      "employeeId": "EMP002",
+      "name": {
+        "firstname": "Mor",
+        "lastname": "Demo"
+      }
+    },
+    {
+      "id": 1775771283394,
+      "username": "Vinod_123",
+      "password": "Teju@7731",
+      "email": "vinnureddy7723@gmail.com",
+      "role": "customer",
+      "name": {
+        "firstname": "Vinod Reddy",
+        "lastname": "Billipalli"
+      },
+      "phone": "3128689488"
+    },
+    {
+      "id": 1775788611094,
+      "username": "vinod7723",
+      "password": "Teju@7723",
+      "email": "bvinodreddy7@gmail.com",
+      "role": "customer",
+      "name": {
+        "firstname": "Vinod Reddy",
+        "lastname": "Billipalli"
+      },
+      "phone": "3128689488"
+    },
+    {
+      "id": 1775834419181,
+      "username": "vinod7731",
+      "password": "Teju@7731",
+      "email": "bvinodreddy7@gmail.com",
+      "role": "customer",
+      "name": {
+        "firstname": "Vinod Reddy",
+        "lastname": "Billipalli"
+      },
+      "phone": "3128689488"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple MacBook Pro 14-inch M3",
+      "price": 1999.99,
+      "stock": 10,
+      "description": "Apple MacBook Pro with M3 chip, 14-inch Liquid Retina XDR display, 18GB RAM, 512GB SSD. Supercharged for pros with incredible performance and all-day battery life.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Samsung 65-Inch 4K QLED Smart TV",
+      "price": 1299.99,
+      "stock": 8,
+      "description": "Samsung 65-inch Class Q80C QLED 4K Smart TV with Quantum HDR, Object Tracking Sound, and AI-powered upscaling for stunning picture quality.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Sony WH-1000XM5 Wireless Headphones",
+      "price": 349.99,
+      "stock": 25,
+      "description": "Industry-leading noise cancellation with Auto NC Optimizer. Crystal clear hands-free calling with 4 beamforming microphones. Up to 30-hour battery life.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "iPhone 15 Pro Max 256GB",
+      "price": 1199.99,
+      "stock": 15,
+      "description": "iPhone 15 Pro Max with A17 Pro chip, 48MP camera system with 5x optical zoom, titanium design, and USB-C connectivity.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 5,
+      "title": "WD 2TB Elements Portable External Hard Drive",
+      "price": 64.99,
+      "stock": 50,
+      "description": "USB 3.0 portable external hard drive. Fast data transfers, high capacity storage compatible with Windows and Mac.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "Acer 27-Inch Full HD IPS Monitor",
+      "price": 229.99,
+      "stock": 5,
+      "description": "27-inch Full HD 1920x1080 IPS ultra-thin display with AMD Radeon FreeSync. Zero-frame design, 75Hz refresh rate, HDMI & VGA ports.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 7,
+      "title": "Samsung 49-Inch Curved Gaming Monitor",
+      "price": 999.99,
+      "stock": 0,
+      "description": "49-inch Super Ultrawide 32:9 curved gaming monitor with 144Hz refresh rate, Quantum Dot technology, and HDR1000 support.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 8,
+      "title": "Men's Classic Slim Fit Dress Shirt",
+      "price": 34.99,
+      "stock": 40,
+      "description": "Premium cotton blend slim fit dress shirt. Wrinkle-resistant fabric with spread collar. Available in multiple colors. Machine washable.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 9,
+      "title": "Men's Slim-Fit Chino Pants",
+      "price": 49.99,
+      "stock": 30,
+      "description": "Classic slim-fit chino pants crafted from stretch cotton for all-day comfort. Perfect for casual or smart-casual occasions.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 10,
+      "title": "Men's Hooded Puffer Jacket",
+      "price": 89.99,
+      "stock": 3,
+      "description": "Lightweight yet warm puffer jacket with detachable hood. Water-resistant outer shell, zip pockets, and packable design.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 11,
+      "title": "Women's Faux Leather Moto Biker Jacket",
+      "price": 79.95,
+      "stock": 18,
+      "description": "Edgy faux leather moto jacket with zip detailing, snap collar, and belted waist. Pairs perfectly with jeans or a dress.",
+      "category": "women's clothing",
+      "image": "https://images.unsplash.com/photo-1548549557-dbe9946621da?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 12,
+      "title": "Women's Floral Wrap Midi Dress",
+      "price": 44.99,
+      "stock": 22,
+      "description": "Elegant floral wrap midi dress with V-neckline and flutter sleeves. Lightweight fabric perfect for spring and summer occasions.",
+      "category": "women's clothing",
+      "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 13,
+      "title": "Gold Diamond Pendant Necklace",
+      "price": 299.99,
+      "stock": 12,
+      "description": "14K gold pendant necklace featuring a sparkling diamond solitaire. Comes with an 18-inch gold chain. Perfect gift for any occasion.",
+      "category": "jewelery",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 14,
+      "title": "Silver Stackable Ring Set",
+      "price": 24.99,
+      "stock": 4,
+      "description": "Set of 5 sterling silver stackable rings with various textures and designs. Mix and match for a stylish layered look.",
+      "category": "jewelery",
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 15,
+      "title": "Rose Gold Charm Bracelet",
+      "price": 59.99,
+      "stock": 0,
+      "description": "Delicate rose gold plated charm bracelet with 7 charms including heart, star, and flower. Adjustable chain fits most wrist sizes.",
+      "category": "jewelery",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=400&fit=crop"
+    }
+  ]
+}
